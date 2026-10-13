@@ -21,4 +21,29 @@ F = num / den
 8.Конец
 ## Блок-схема  
 
-![Uploading image.png…]()
+<img width="192" height="552" alt="image" src="https://github.com/user-attachments/assets/d3760bb2-817e-464a-8ac8-b22c77cfae66" />
+## Реализация программы  
+ printf("\n--- ДОМАШНЕЕ ЗАДАНИЕ (Вариант 23) ---\n");
+ double x, y, F;
+ const double t = 0.5;
+
+ printf("Введите x (например, 4): ");
+ scanf_s("%lf", &x);
+ printf("Введите y (например, 2): ");
+ scanf_s("%lf", &y);
+
+ // Формула для 23 варианта
+ double num = pow(sin(x), 3) + log(2 * y + 3 * x); // Числитель
+ double den = pow(t, 3) + sqrt(x);                 // Знаменатель
+ F = num / den;
+
+ printf("Результат F(x, y) = %.6f\n", F);
+ ## Результаты работы программы
+ Ввод х = 2, у = 0.0000015
+ Вывод:1.624082
+ Ввод х = 4, у = 2
+ Вывод: 1.086979
+ ## Информация о разработчике 
+ Панарин Егор бИД-261
+
+
