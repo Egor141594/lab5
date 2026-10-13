@@ -21,7 +21,8 @@ F = num / den
 8.Конец  
 ## Блок-схема  
 
-<img width="192" height="552" alt="image" src="https://github.com/user-attachments/assets/d3760bb2-817e-464a-8ac8-b22c77cfae66" />  
+<img width="202" height="612" alt="image" src="https://github.com/user-attachments/assets/d5a9b95f-0fcb-43f1-a241-10a6f80b9441" />
+
 
 ## Реализация программы  
  printf("\n--- ДОМАШНЕЕ ЗАДАНИЕ (Вариант 23) ---\n");  
