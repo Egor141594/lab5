@@ -22,6 +22,7 @@ F = num / den
 ## Блок-схема  
 
 <img width="192" height="552" alt="image" src="https://github.com/user-attachments/assets/d3760bb2-817e-464a-8ac8-b22c77cfae66" />  
+
 ## Реализация программы  
  printf("\n--- ДОМАШНЕЕ ЗАДАНИЕ (Вариант 23) ---\n");  
  double x, y, F;  
